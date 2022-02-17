@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f836f48-55b4-46f3-80ce-d9df985d89ef": {
+      "ProjectGuid": "8f836f48-55b4-46f3-80ce-d9df985d89ef",
+      "DisplayName": "my-books",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
